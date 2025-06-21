@@ -4,3 +4,7 @@ This repository stores the project charter and task list for **要件定義AIワ
 
 - [Project Charter](docs/ProjectCharter.md)
 - [Phase 1 Task List](docs/Phase1_Tasks.md)
+- [Use Cases](docs/UseCases.md)
+- [UI Components](docs/UIComponents.md)
+- [Intermediate Format](docs/IntermediateFormat.md)
+- [Prompt Design](docs/PromptDesign.md)

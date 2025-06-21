@@ -1,0 +1,16 @@
+{
+  "name": "wireframe-system",
+  "version": "1.0.0",
+  "description": "This repository stores the project charter and task list for **要件定義AIワイヤーフレーム支援システム（仮）**. The aim is to build a proof-of-concept that generates and edits UI wireframes via natural language prompts.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node test/sample.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
